@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from 'next/head';
 
 export default function Home() {
   return (
@@ -15,6 +15,7 @@ export default function Home() {
 
         <p className="description">
           Get started by editing <code>pages/index.js</code>
+          Now with continuos deployment! 🎉
         </p>
 
         <div className="grid">
@@ -205,5 +206,5 @@ export default function Home() {
         }
       `}</style>
     </div>
-  )
+  );
 }
